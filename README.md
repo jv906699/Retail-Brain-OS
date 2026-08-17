@@ -315,6 +315,7 @@ It exposes key operational metrics including:
 ### 📸 Screenshot — Live Intelligence Dashboard
 
 <img width="275" height="506" alt="image" src="https://github.com/user-attachments/assets/c6b6b850-f004-44d2-ab3f-435694e43be2" />
+
 <img width="290" height="574" alt="image" src="https://github.com/user-attachments/assets/0d02b3ca-415d-45e2-9f3b-643501e48a53" />
 
 The dashboard updates these values while the vision pipeline is running, allowing the operator to observe customer activity without manually reviewing the camera feed frame-by-frame
@@ -560,6 +561,7 @@ The interface provides information such as:
 ### 📸 Screenshot — Runtime Monitoring
 
 <img width="277" height="202" alt="Screenshot 2026-08-17 215714" src="https://github.com/user-attachments/assets/e99e48be-228c-4059-84c3-0f5702d461a3" />
+
 <img width="1901" height="39" alt="Screenshot 2026-08-17 215727" src="https://github.com/user-attachments/assets/14a99314-f1df-420c-974c-2b5b3557b9f2" />
 
 ---
