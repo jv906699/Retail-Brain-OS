@@ -97,41 +97,32 @@ Current Retail Brain OS Pipeline
 
 The current implementation follows a modular real-time computer vision pipeline that transforms camera/video input into structured retail intelligence.
 
-Camera / Video Source
-│
-▼
-Frame Capture
-│
-▼
-Person Detection
-│
-▼
-Multi-Object Tracking
-│
-▼
-Anonymous Track IDs
-│
-▼
-Zone Intelligence
-│
-├───────────────┐
-▼               ▼
-Zone Entry        Zone Exit
-Detection         Detection
-│               │
-└───────┬───────┘
-▼
-Dwell-Time Analysis
-│
-▼
-Customer Session
-Intelligence
-│
-▼
-Structured Events
-│
-▼
-Live Retail OS GUI
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=760&height=36&lines=CAMERA+%E2%86%92+FRAME+CAPTURE+%E2%86%92+PERSON+DETECTION;PERSON+DETECTION+%E2%86%92+MULTI-OBJECT+TRACKING;TRACKING+%E2%86%92+ANONYMOUS+TRACK+IDs+%E2%86%92+ZONE+INTELLIGENCE;ZONE+INTELLIGENCE+%E2%86%92+DWELL-TIME+ANALYSIS;CUSTOMER+SESSIONS+%E2%86%92+STRUCTURED+EVENTS+%E2%86%92+LIVE+RETAIL+OS"
+    alt="Retail Brain OS animated pipeline"
+  />
+</p>
+
+<p align="center">
+  <kbd>CAMERA</kbd>
+  &nbsp;→&nbsp;
+  <kbd>DETECTION</kbd>
+  &nbsp;→&nbsp;
+  <kbd>TRACKING</kbd>
+  &nbsp;→&nbsp;
+  <kbd>ZONES</kbd>
+  &nbsp;→&nbsp;
+  <kbd>DWELL</kbd>
+  &nbsp;→&nbsp;
+  <kbd>EVENTS</kbd>
+  &nbsp;→&nbsp;
+  <kbd>LIVE GUI</kbd>
+</p>
+
+<p align="center">
+  <sub>From live CCTV input to structured retail intelligence in real time.</sub>
+</p>
 
 Core Processing Flow
 
