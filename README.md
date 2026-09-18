@@ -14,52 +14,45 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=32&lines=Turning+CCTV+into+Retail+Intelligence;Real-Time+Computer+Vision;Person+Detection+%7C+Tracking+%7C+Zone+Intelligence;Dwell-Time+%7C+Customer+Sessions+%7C+Event+Processing;From+Visual+Data+to+Business+Insights"
-    alt="Retail Brain OS capabilities"
-  />
-</p>
-
-<p align="center">
-  <kbd>COMPUTER VISION</kbd>
-  &nbsp;&nbsp;
-  <kbd>REAL-TIME AI</kbd>
-  &nbsp;&nbsp;
-  <kbd>RETAIL INTELLIGENCE</kbd>
-  &nbsp;&nbsp;
-  <kbd>EDGE AI</kbd>
-</p>
-
-<br>
-
-Retail Brain OS is an AI-powered retail intelligence platform designed to transform existing CCTV infrastructure into a real-time store intelligence system.
-
-The platform combines computer vision, person detection, multi-object tracking, configurable store zones, customer movement analysis, dwell-time intelligence, event generation, and a live operational dashboard.
-
-Instead of treating CCTV footage as passive video, Retail Brain OS converts live visual information into structured customer-activity data that can help retailers understand how customers move and interact within their stores.
-
-Vision
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=32&lines=Turning+CCTV+into+Retail+Intelligence;Real-Time+Computer+## Vision
 
 The long-term vision of Retail Brain OS is to build a Retail Intelligence Operating System for Indian retailers.
 
 The platform is designed to transform existing CCTV infrastructure into a business intelligence layer without requiring retailers to replace their existing camera infrastructure.
 
-The broader product vision is to help retailers understand:
+Retail Intelligence Capabilities
 
-Customer movement patterns
+Capability
 
-Repeat visitor behavior
+Intelligence Provided
 
-Store occupancy and peak business hours
+👣 Customer Movement
 
-Product interest zones
+Customer movement patterns across the store
 
-Queue behavior
+🔁 Visitor Behavior
 
-Customer intent trends
+Repeat visitor behavior and returning frequency
 
-Returning customer frequency
+🏪 Store Occupancy
 
-Store performance analytics
+Current occupancy and peak business hours
+
+🎯 Product Interest
+
+Activity within product and display zones
+
+🧍 Queue Behavior
+
+Activity around waiting and checkout areas
+
+🧠 Customer Intent
+
+Customer intent trends derived from observed activity
+
+📊 Store Analytics
+
+Store-level performance analytics
 
 The system is designed around anonymous customer activity rather than permanent personal identification or the storage of sensitive biometric identities.
 
@@ -69,17 +62,31 @@ AI-Powered Retail Growth Intelligence Platform
 
 Retail Brain OS is being developed as a plug-and-play intelligence layer for retail environments.
 
-The intended platform is designed to work with existing:
+Designed to Work With Existing Infrastructure
 
-CCTV cameras
+Existing Infrastructure
 
-IP cameras
+Retail Brain OS Role
 
-DVR systems
+📹 CCTV Cameras
 
-NVR systems
+Visual data source
 
-Retail infrastructure
+🌐 IP Cameras
+
+Network-based camera input
+
+💾 DVR Systems
+
+Existing video infrastructure
+
+🗄️ NVR Systems
+
+Network video recording infrastructure
+
+🏬 Retail Infrastructure
+
+Existing store environment
 
 The goal is to make advanced computer-vision-based retail intelligence accessible without requiring expensive new surveillance hardware.
 
@@ -88,6 +95,44 @@ Current Implementation
 The current implementation represents the computer-vision and edge-intelligence foundation of the larger Retail Brain OS platform.
 
 It provides a working real-time pipeline that can process camera/video input, detect and track people, understand configurable store zones, calculate customer dwell time, generate customer activity events, and present the resulting intelligence through a live graphical interface.
+
+Current Intelligence Stack
+
+Layer
+
+Current Capability
+
+Visual Input
+
+Camera / video processing
+
+Computer Vision
+
+Person detection
+
+Tracking
+
+Anonymous multi-object tracking
+
+Spatial Intelligence
+
+Configurable store zones
+
+Temporal Intelligence
+
+Dwell-time analysis
+
+Session Intelligence
+
+Visitor session state
+
+Event Processing
+
+Customer and zone events
+
+Presentation
+
+Live Retail Brain OS GUI
 
 The current system is therefore the foundational edge layer upon which the broader Retail Brain OS product vision can be built.
 
@@ -253,7 +298,7 @@ It also provides a foundation for the larger Retail Brain OS architecture descri
 
 Core Features
 
-1. Live Camera & Real-Time AI Detection
+Live Camera & Real-Time AI Detection
 
 Retail Brain OS provides a live visual interface for monitoring a camera or video source while simultaneously processing the incoming frames through the computer-vision pipeline.
 
@@ -704,7 +749,7 @@ The system also provides surveillance recording controls for preserving the came
 
 <img width="1068" height="43" alt="image" src="https://github.com/user-attachments/assets/418fd3f1-e136-4ceb-83d3-f68d88500ac5" />
 
-5. System Status Bar
+System Status Bar
 
 And this small thing at the very bottom should definitely be documented.
 
