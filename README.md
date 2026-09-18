@@ -1,9 +1,3 @@
-<!-- ========================================================= -->
-
-<!-- RETAIL BRAIN OS — INTRO -->
-
-<!-- ========================================================= -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:06b6d4,75:8b5cf6,100:ec4899&height=220&section=header&text=RETAIL%20BRAIN%20OS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI-POWERED%20RETAIL%20INTELLIGENCE%20PLATFORM&descSize=17&descAlignY=56&descColor=ffffff"
