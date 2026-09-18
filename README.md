@@ -1,40 +1,35 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:06b6d4,75:8b5cf6,100:ec4899&height=220&section=header&text=RETAIL%20BRAIN%20OS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI-POWERED%20RETAIL%20INTELLIGENCE%20PLATFORM&descSize=17&descAlignY=56&descColor=ffffff"
-    width="100%"
-    alt="Retail Brain OS"
-  />
+&#x20; <img
+&#x20;   src="https\://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:06b6d4,75:8b5cf6,100\:ec4899&height=220&section=header&text=RETAIL%20BRAIN%20OS&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI-POWERED%20RETAIL%20INTELLIGENCE%20PLATFORM&descSize=17&descAlignY=56&descColor=ffffff"
+&#x20;   width="100%"
+&#x20;   alt="Retail Brain OS"
+&#x20; />
 </p>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=32&lines=Turning+CCTV+into+Retail+Intelligence;Real-Time+Computer+Vision;Person+Detection+%7C+Tracking+%7C+Zone+Intelligence;Dwell-Time+%7C+Customer+Sessions+%7C+Event+Processing;From+Visual+Data+to+Business+Insights"
-    alt="Retail Brain OS capabilities"
-  />
+&#x20; <img
+&#x20;   src="https\://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=32&lines=Turning+CCTV+into+Retail+Intelligence;Real-Time+Computer+Vision;Person+Detection+%7C+Tracking+%7C+Zone+Intelligence;Dwell-Time+%7C+Customer+Sessions+%7C+Event+Processing;From+Visual+Data+to+Business+Insights"
+&#x20;   alt="Retail Brain OS capabilities"
+&#x20; />
 </p>
-
 <p align="center">
-  <kbd>COMPUTER VISION</kbd>
-  &nbsp;&nbsp;
-  <kbd>REAL-TIME AI</kbd>
-  &nbsp;&nbsp;
-  <kbd>RETAIL INTELLIGENCE</kbd>
-  &nbsp;&nbsp;
-  <kbd>EDGE AI</kbd>
+&#x20; <kbd>COMPUTER VISION</kbd>
+&#x20; &nbsp;&nbsp;
+&#x20; <kbd>REAL-TIME AI</kbd>
+&#x20; &nbsp;&nbsp;
+&#x20; <kbd>RETAIL INTELLIGENCE</kbd>
+&#x20; &nbsp;&nbsp;
+&#x20; <kbd>EDGE AI</kbd>
 </p>
-
 <br>
 
 Retail Brain OS is an AI-powered retail intelligence platform designed to transform existing CCTV infrastructure into a real-time store intelligence system.
 
 The platform combines computer vision, person detection, multi-object tracking, configurable store zones, customer movement analysis, dwell-time intelligence, event generation, and a live operational dashboard.
-
 Instead of treating CCTV footage as passive video, Retail Brain OS converts live visual information into structured customer-activity data that can help retailers understand how customers move and interact within their stores.
 
 🧭 Vision
 
 The long-term vision of Retail Brain OS is to build a Retail Intelligence Operating System for Indian retailers.
-
 The platform is designed to transform existing CCTV infrastructure into a business intelligence layer without requiring retailers to replace their existing camera infrastructure.
 
 Retail Intelligence Capability Matrix
@@ -110,7 +105,6 @@ The goal is to make advanced computer-vision-based retail intelligence accessibl
 🧠 Current Implementation
 
 The current implementation represents the computer-vision and edge-intelligence foundation of the larger Retail Brain OS platform.
-
 It provides a working real-time pipeline that can process camera/video input, detect and track people, understand configurable store zones, calculate customer dwell time, generate customer activity events, and present the resulting intelligence through a live graphical interface.
 
 Current Intelligence Stack
@@ -160,18 +154,16 @@ Current Retail Brain OS Pipeline
 The current implementation follows a modular real-time computer-vision pipeline that transforms camera/video input into structured retail intelligence.
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=760&height=36&lines=CAMERA+%E2%86%92+FRAME+CAPTURE+%E2%86%92+PERSON+DETECTION;PERSON+DETECTION+%E2%86%92+MULTI-OBJECT+TRACKING;TRACKING+%E2%86%92+ANONYMOUS+TRACK+IDs+%E2%86%92+ZONE+INTELLIGENCE;ZONE+INTELLIGENCE+%E2%86%92+DWELL-TIME+ANALYSIS;CUSTOMER+SESSIONS+%E2%86%92+STRUCTURED+EVENTS+%E2%86%92+LIVE+RETAIL+OS"
-    alt="Retail Brain OS animated pipeline"
-  />
+&#x20; <img
+&#x20;   src="https\://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=06B6D4&center=true&vCenter=true&repeat=true&width=760&height=36&lines=CAMERA+%E2%86%92+FRAME+CAPTURE+%E2%86%92+PERSON+DETECTION;PERSON+DETECTION+%E2%86%92+MULTI-OBJECT+TRACKING;TRACKING+%E2%86%92+ANONYMOUS+TRACK+IDs+%E2%86%92+ZONE+INTELLIGENCE;ZONE+INTELLIGENCE+%E2%86%92+DWELL-TIME+ANALYSIS;CUSTOMER+SESSIONS+%E2%86%92+STRUCTURED+EVENTS+%E2%86%92+LIVE+RETAIL+OS"
+&#x20;   alt="Retail Brain OS animated pipeline"
+&#x20; />
 </p>
-
 <p align="center">
-  <kbd>CAMERA</kbd> → <kbd>DETECTION</kbd> → <kbd>TRACKING</kbd> → <kbd>ZONES</kbd> → <kbd>DWELL</kbd> → <kbd>EVENTS</kbd> → <kbd>LIVE GUI</kbd>
+&#x20; <kbd>CAMERA</kbd> → <kbd>DETECTION</kbd> → <kbd>TRACKING</kbd> → <kbd>ZONES</kbd> → <kbd>DWELL</kbd> → <kbd>EVENTS</kbd> → <kbd>LIVE GUI</kbd>
 </p>
-
 <p align="center">
-  <sub>From live CCTV input to structured retail intelligence in real time.</sub>
+&#x20; <sub>From live CCTV input to structured retail intelligence in real time.</sub>
 </p>
 
 Core Processing Flow
@@ -506,14 +498,12 @@ Live GUI
 
 📸 Live Camera & AI Detection
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9e541726-c095-4b0f-9cec-c64e6cb0ec0a" />
-
+<img width="1919" height="1079" alt="image" src="https\://github.com/user-attachments/assets/9e541726-c095-4b0f-9cec-c64e6cb0ec0a" />
 The live interface provides simultaneous visibility into the camera feed, detected people, tracking IDs, configured zones, runtime performance, and generated retail intelligence.
 
 📊 Retail Intelligence Dashboard
 
 Retail Brain OS transforms the live camera stream into an operational retail intelligence interface.
-
 Instead of displaying only raw detections, the system derives information about people, zones, movement, dwell time, entry/exit activity, and the current state of the store.
 
 Live Intelligence Overview
@@ -557,19 +547,16 @@ Detailed state of a selected visitor
 📸 Live Intelligence Dashboard
 
 <p align="center">
-  <img width="275" height="506" alt="image" src="https://github.com/user-attachments/assets/c6b6b850-f004-44d2-ab3f-435694e43be2" />
+&#x20; <img width="275" height="506" alt="image" src="https\://github.com/user-attachments/assets/c6b6b850-f004-44d2-ab3f-435694e43be2" />
 </p>
-
 <p align="center">
-  <img width="290" height="574" alt="image" src="https://github.com/user-attachments/assets/0d02b3ca-415d-45e2-9f3b-643501e48a53" />
+&#x20; <img width="290" height="574" alt="image" src="https\://github.com/user-attachments/assets/0d02b3ca-415d-45e2-9f3b-643501e48a53" />
 </p>
-
 The dashboard updates these values while the vision pipeline is running, allowing the operator to observe customer activity without manually reviewing the camera feed frame-by-frame.
 
 🏪 Store Occupancy Intelligence
 
 Retail Brain OS maintains an understanding of the people currently present within the monitored store environment.
-
 The People in Store metric represents the current number of tracked visitors considered to be inside the monitored environment. This differs from simply counting detections in an individual frame.
 
 Occupancy Metrics
@@ -594,7 +581,7 @@ These metrics provide an immediate operational view of customer traffic.
 
 📸 Occupancy Metrics
 
-<img width="294" height="450" alt="image" src="https://github.com/user-attachments/assets/f0472f2b-7bd6-4426-9ebd-af84ead4d69e" />
+<img width="294" height="450" alt="image" src="https\://github.com/user-attachments/assets/f0472f2b-7bd6-4426-9ebd-af84ead4d69e" />
 
 🎯 Zone Intelligence
 
@@ -670,14 +657,12 @@ Preserve visited-zone information
 
 📸 Configured Zones
 
-<img width="1336" height="793" alt="Screenshot 2026-08-17 213005" src="https://github.com/user-attachments/assets/4aa55273-dd73-4ea0-83b0-adf1aadd8767" />
-
+<img width="1336" height="793" alt="Screenshot 2026-08-17 213005" src="https\://github.com/user-attachments/assets/4aa55273-dd73-4ea0-83b0-adf1aadd8767" />
 Configured zones are displayed directly over the live camera feed using colored polygon boundaries, making the relationship between the physical camera environment and analytical regions immediately visible.
 
 ⏱️ Zone-Wise Dwell Time
 
 Retail Brain OS measures how long tracked visitors remain within configured zones.
-
 Dwell time adds behavioral context beyond simple visitor counting.
 
 Dwell Intelligence Model
@@ -724,7 +709,7 @@ The example above illustrates the structure documented by the project; it is not
 
 📸 Zone-Wise Dwell
 
-<img width="272" height="122" alt="image" src="https://github.com/user-attachments/assets/4386196e-1959-4293-b3f4-57d8f024f0f9" />
+<img width="272" height="122" alt="image" src="https\://github.com/user-attachments/assets/4386196e-1959-4293-b3f4-57d8f024f0f9" />
 
 👥 Active People Intelligence
 
@@ -748,14 +733,12 @@ Time spent in the current zone
 
 📸 Active People
 
-<img width="277" height="149" alt="image" src="https://github.com/user-attachments/assets/33d6afe3-1185-455d-9c4d-5a5ad0ac6aa2" />
-
+<img width="277" height="149" alt="image" src="https\://github.com/user-attachments/assets/33d6afe3-1185-455d-9c4d-5a5ad0ac6aa2" />
 Selecting an active person provides access to more detailed information about that tracked session.
 
 🧾 Individual Customer Session Intelligence
 
 Retail Brain OS maintains a session-level intelligence record for each tracked visitor.
-
 When an active person is selected, the PERSON DETAILS (SELECTED) panel provides information about that individual's activity during the current session.
 
 Session Detail Model
@@ -792,14 +775,12 @@ This allows the operator to inspect an individual visitor without exposing a per
 
 📸 Selected Person Details
 
-<img width="261" height="201" alt="image" src="https://github.com/user-attachments/assets/352db391-69fe-42e7-8591-d812bc512b3f" />
-
+<img width="261" height="201" alt="image" src="https\://github.com/user-attachments/assets/352db391-69fe-42e7-8591-d812bc512b3f" />
 The selected-person view connects the visitor's tracking state with the higher-level retail intelligence generated by the system.
 
 🗺️ Multi-Zone Customer Journey
 
 Retail Brain OS does not treat a visitor's activity as a single-zone event.
-
 A tracked visitor can move between multiple configured zones during the same session, while the intelligence layer maintains zone visit information and accumulates dwell time across visited zones.
 
 Example Journey
@@ -845,14 +826,13 @@ This provides a foundation for understanding how visitors move through different
 🚪 Customer Entry & Exit Intelligence
 
 Retail Brain OS tracks customer movement into and out of the monitored environment.
-
 The intelligence layer generates entry and exit events and maintains cumulative counts for the current operational session.
 
 Entry / Exit Metrics
 
-Metric
+MetricMeaning
 
-Meaning
+
 
 Total Entered
 
@@ -868,8 +848,7 @@ Visitors currently inside
 
 📸 Entry & Exit Metrics
 
-<img width="269" height="172" alt="image" src="https://github.com/user-attachments/assets/04e81ace-f342-4fe6-9ade-91a179dccc59" />
-
+<img width="269" height="172" alt="image" src="https\://github.com/user-attachments/assets/04e81ace-f342-4fe6-9ade-91a179dccc59" />
 This allows the operator to distinguish between total visitors who entered, visitors who have exited, and visitors currently inside.
 
 ⚡ Real-Time Event Stream
@@ -902,8 +881,7 @@ Each event is associated with the relevant anonymous tracking ID and timestamp.
 
 📸 Recent Events
 
-<img width="280" height="98" alt="image" src="https://github.com/user-attachments/assets/d476d544-c89e-4610-8828-e78ca075f987" />
-
+<img width="280" height="98" alt="image" src="https\://github.com/user-attachments/assets/d476d544-c89e-4610-8828-e78ca075f987" />
 The event stream provides a chronological operational view of recent customer activity.
 
 🖥️ Live Vision Runtime Monitoring
@@ -955,17 +933,15 @@ Currently loaded analytical regions
 📸 Runtime Monitoring
 
 <p align="center">
-  <img width="277" height="202" alt="Screenshot 2026-08-17 215714" src="https://github.com/user-attachments/assets/e99e48be-228c-4059-84c3-0f5702d461a3" />
+&#x20; <img width="277" height="202" alt="Screenshot 2026-08-17 215714" src="https\://github.com/user-attachments/assets/e99e48be-228c-4059-84c3-0f5702d461a3" />
 </p>
-
 <p align="center">
-  <img width="1901" height="39" alt="Screenshot 2026-08-17 215727" src="https://github.com/user-attachments/assets/14a99314-f1df-420c-974c-2b5b3557b9f2" />
+&#x20; <img width="1901" height="39" alt="Screenshot 2026-08-17 215727" src="https\://github.com/user-attachments/assets/14a99314-f1df-420c-974c-2b5b3557b9f2" />
 </p>
 
 🎛️ Retail Operations & Control Interface
 
 Retail Brain OS is designed as an operational interface rather than a passive monitoring screen.
-
 The GUI provides dedicated controls for configuring the retail environment, controlling the live vision runtime, managing surveillance recordings, capturing data, and accessing previously saved information.
 
 Operational Areas
@@ -1014,7 +990,7 @@ Latest zone configuration information
 
 📸 Zone Configuration
 
-<img width="263" height="785" alt="image" src="https://github.com/user-attachments/assets/7d6b702a-a86a-4479-bfe1-f59179409379" />
+<img width="263" height="785" alt="image" src="https\://github.com/user-attachments/assets/7d6b702a-a86a-4479-bfe1-f59179409379" />
 
 🎛️ Runtime Control Panel
 
@@ -1062,8 +1038,7 @@ Closes the current Retail Brain OS interface
 
 📸 Control Panel
 
-<img width="1915" height="460" alt="image" src="https://github.com/user-attachments/assets/3d647453-45b0-420a-ba96-dbecbc5804d8" />
-
+<img width="1915" height="460" alt="image" src="https\://github.com/user-attachments/assets/3d647453-45b0-420a-ba96-dbecbc5804d8" />
 The control panel provides a single operational area from which the operator can control the major runtime and data-management functions of the system.
 
 💾 Saved Data & Recorded Sessions
@@ -1092,7 +1067,7 @@ Preserve the camera stream when required
 
 📸 Data & Recording Controls
 
-<img width="1068" height="43" alt="image" src="https://github.com/user-attachments/assets/418fd3f1-e136-4ceb-83d3-f68d88500ac5" />
+<img width="1068" height="43" alt="image" src="https\://github.com/user-attachments/assets/418fd3f1-e136-4ceb-83d3-f68d88500ac5" />
 
 📡 System Status Monitoring
 
@@ -1126,52 +1101,31 @@ Current application version
 
 📸 System Status
 
-<img width="1913" height="38" alt="image" src="https://github.com/user-attachments/assets/714cc6b4-234b-4617-b47c-6c728de35cf1" />
-
+<img width="1913" height="38" alt="image" src="https\://github.com/user-attachments/assets/714cc6b4-234b-4617-b47c-6c728de35cf1" />
 This provides immediate operational feedback without requiring the operator to inspect individual dashboard panels.
 
 🔍 System Capability Summary
 
-Area
+Area                   Capabilities
 
-Capabilities
+Computer Vision        Person detection · frame processing
 
-Computer Vision
+Tracking               Anonymous multi-object tracking
 
-Person detection · frame processing
+Spatial Intelligence   Polygon zones · zone entry · zone exit
 
-Tracking
+Temporal Intelligence  Current dwell · total dwell · zone-wise dwell
 
-Anonymous multi-object tracking
+Customer Intelligence  Sessions · active people · multi-zone journeys
 
-Spatial Intelligence
+Event Processing       Customer entry · customer exit · zone events
 
-Polygon zones · zone entry · zone exit
+Dashboard              Occupancy · active zones · dwell · recent events
 
-Temporal Intelligence
+Runtime Monitoring     FPS · processing time · camera state · tracker state
 
-Current dwell · total dwell · zone-wise dwell
-
-Customer Intelligence
-
-Sessions · active people · multi-zone journeys
-
-Event Processing
-
-Customer entry · customer exit · zone events
-
-Dashboard
-
-Occupancy · active zones · dwell · recent events
-
-Runtime Monitoring
-
-FPS · processing time · camera state · tracker state
-
-Operations
-
-Zone setup · runtime control · recording · data management
+Operations             Zone setup · runtime control · recording · data management
 
 <p align="center">
-  <sub>Retail Brain OS — transforming existing CCTV infrastructure into structured retail intelligence.</sub>
+&#x20; <sub>Retail Brain OS — transforming existing CCTV infrastructure into structured retail intelligence.</sub>
 </p>
