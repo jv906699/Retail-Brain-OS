@@ -2,7 +2,7 @@
 Retail Brain OS
 Main Desktop GUI
 
-Phase B-4.1
+Phase D-5
 GUI <-> RetailVisionRuntime integration
 with fixed application layout and live dashboard.
 """
