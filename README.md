@@ -31,17 +31,27 @@
 
 <br>
 
-Retail Brain OS is an AI-powered retail intelligence platform designed to transform existing CCTV infrastructure into a real-time store intelligence system.
+# 🧠 What is Retail Brain OS?
 
-The platform combines computer vision, person detection, multi-object tracking, configurable store zones, customer movement analysis, dwell-time intelligence, event generation, and a live operational dashboard.
+**Retail Brain OS** is an AI-powered retail intelligence platform designed to transform existing CCTV infrastructure into a real-time store intelligence system.
 
-Instead of treating CCTV footage as passive video, Retail Brain OS converts live visual information into structured customer-activity data that can help retailers understand how customers move and interact within their stores.
+The platform combines **computer vision, person detection, multi-object tracking, configurable store zones, customer movement analysis, dwell-time intelligence, event generation, and a live operational dashboard**.
 
-Vision
+Instead of treating CCTV footage as passive video, Retail Brain OS converts live visual information into structured customer-activity data that can help retailers understand how people move through and interact with a store.
 
-The long-term vision of Retail Brain OS is to build a Retail Intelligence Operating System for Indian retailers.
-
-The platform is designed to transform existing CCTV infrastructure into a business intelligence layer without requiring retailers to replace their existing camera infrastructure.
+<p align="center">
+  <kbd>COMPUTER VISION</kbd>
+  &nbsp;→&nbsp;
+  <kbd>TRACKING</kbd>
+  &nbsp;→&nbsp;
+  <kbd>ZONE INTELLIGENCE</kbd>
+  &nbsp;→&nbsp;
+  <kbd>DWELL TIME</kbd>
+  &nbsp;→&nbsp;
+  <kbd>EVENTS</kbd>
+  &nbsp;→&nbsp;
+  <kbd>RETAIL INSIGHTS</kbd>
+</p>
 
 The broader product vision is to help retailers understand:
 
