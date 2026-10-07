@@ -101,11 +101,11 @@ It provides a working real-time pipeline that can process camera/video input, de
 
 The current system is therefore the foundational edge layer upon which the broader Retail Brain OS product vision can be built.
 
-System Overview
+# 🔄 System Overview
 
-Current Retail Brain OS Pipeline
+## Current Retail Brain OS Pipeline
 
-The current implementation follows a modular real-time computer vision pipeline that transforms camera/video input into structured retail intelligence.
+The current implementation follows a modular real-time computer-vision pipeline that transforms camera/video input into structured retail intelligence.
 
 <p align="center">
   <img
@@ -125,116 +125,49 @@ The current implementation follows a modular real-time computer vision pipeline 
   &nbsp;→&nbsp;
   <kbd>DWELL</kbd>
   &nbsp;→&nbsp;
+  <kbd>SESSIONS</kbd>
+  &nbsp;→&nbsp;
   <kbd>EVENTS</kbd>
   &nbsp;→&nbsp;
   <kbd>LIVE GUI</kbd>
 </p>
 
 <p align="center">
-  <sub>From live CCTV input to structured retail intelligence in real time.</sub>
+  <sub>
+    From live camera input to structured retail intelligence in real time.
+  </sub>
 </p>
 
-Core Processing Flow
+---
 
-Camera / Video Input
+# ⚙️ Core Processing Flow
+
+## 1. 📹 Camera / Video Input
 
 Retail Brain OS accepts a live visual stream as the input to the vision pipeline.
 
 The current implementation can operate with camera/video input and continuously process incoming frames.
 
-Person Detection
+---
+
+## 2. 🎯 Person Detection
 
 Each processed frame is passed through the object-detection pipeline to identify people.
 
 The detection stage provides the information required by the tracking and intelligence layers, including the detected person's location within the frame.
 
-Multi-Object Tracking
+---
+
+## 3. 🧭 Multi-Object Tracking
 
 Detected people are assigned temporary tracking IDs so that the system can maintain continuity across consecutive frames.
 
 For example:
+
+```text
 Person → Track ID 1
 Person → Track ID 2
 Person → Track ID 3
-
-These IDs allow Retail Brain OS to reason about the movement of individual anonymous visitors during a store session.
-
-Zone Intelligence
-
-The system supports configurable polygon-based store zones.
-
-A retailer can define areas such as:
-
-Entrance areas
-Product areas
-Billing areas
-Waiting areas
-Other custom store regions
-
-The intelligence layer determines when a tracked person enters, remains inside, or leaves a configured zone.
-
-Dwell-Time Intelligence
-
-When a tracked person spends time inside a zone, Retail Brain OS measures the duration of that visit.
-
-The system maintains:
-
-Current zone dwell time
-Total dwell time
-Zone-wise dwell time
-Zone visit history
-
-This allows the system to understand not only where a customer moved, but also how long they spent in each area.
-
-Customer Session Intelligence
-
-The system maintains a session-level representation of tracked visitors.
-
-A session can contain information such as:
-
-Track ID
-First seen time
-Store entry time
-Store exit time
-Current status
-Current zone
-Total dwell time
-Zone-wise dwell time
-Zone visit history
-
-This information can then be presented through the Retail Brain OS interface.
-
-Event Generation
-
-The intelligence layer generates structured events from the customer's movement through the store.
-
-Examples include:
-
-Customer entry
-Zone entry
-Zone exit
-Customer exit
-
-These events form the bridge between raw computer-vision output and higher-level retail intelligence.
-
-Live Retail Brain OS Interface
-
-The processed intelligence is presented through the live GUI.
-
-The interface provides the operator with real-time visibility into:
-
-Active people
-Tracking IDs
-Current zones
-Dwell information
-Store activity
-Camera status
-System status
-Customer session information
-
-The GUI also provides tools for recording, face capture, saving session data, and reviewing previously captured information.
-
-Modular Architecture
 
 The current implementation separates the major responsibilities of the system into independent components.
 
@@ -257,6 +190,7 @@ Presentation Layer
 │
 └── Retail Brain OS GUI
 
+```
 This separation allows the vision pipeline and intelligence logic to operate independently from the presentation layer.
 
 It also provides a foundation for the larger Retail Brain OS architecture described in the project's long-term product vision.
